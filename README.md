@@ -7,11 +7,18 @@
 **This is an example of how you may give instructions on setting up your project locally.
 Modify this file to match your project, remove sections that don't apply.**
 
-To get a local copy up and running on your machine, follow these simple steps.
-Enter this in your terminal 👇 
+### To get a local copy up and running on your machine, follow these simple steps.
+
+Enter this in your terminal 👇
+
 ``` 
   git clone git@github.com:Qoosim/webpack-boilerplate.git 
 ``` 
+run 
+```
+  npm install or yarn
+```
+
 and you can start building your own project on it.
 
 ## Author
